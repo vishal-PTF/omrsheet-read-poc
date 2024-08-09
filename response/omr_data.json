@@ -1,0 +1,174 @@
+{
+    "1": {
+        "coordinates": [
+            {
+                "x": 93,
+                "y": 124,
+                "r": 8,
+                "question_no": 1,
+                "option": "A"
+            },
+            {
+                "x": 263,
+                "y": 124,
+                "r": 8,
+                "question_no": 1,
+                "option": "B"
+            },
+            {
+                "x": 432,
+                "y": 125,
+                "r": 8,
+                "question_no": 1,
+                "option": "C"
+            },
+            {
+                "x": 603,
+                "y": 125,
+                "r": 8,
+                "question_no": 1,
+                "option": "D"
+            },
+            {
+                "x": 91,
+                "y": 206,
+                "r": 8,
+                "question_no": 2,
+                "option": "A"
+            },
+            {
+                "x": 262,
+                "y": 206,
+                "r": 8,
+                "question_no": 2,
+                "option": "B"
+            },
+            {
+                "x": 432,
+                "y": 206,
+                "r": 8,
+                "question_no": 2,
+                "option": "C"
+            },
+            {
+                "x": 604,
+                "y": 207,
+                "r": 8,
+                "question_no": 2,
+                "option": "D"
+            },
+            {
+                "x": 92,
+                "y": 294,
+                "r": 8,
+                "question_no": 3,
+                "option": "A"
+            },
+            {
+                "x": 263,
+                "y": 294,
+                "r": 8,
+                "question_no": 3,
+                "option": "B"
+            },
+            {
+                "x": 603,
+                "y": 295,
+                "r": 8,
+                "question_no": 3,
+                "option": "D"
+            },
+            {
+                "x": 432,
+                "y": 296,
+                "r": 9,
+                "question_no": 3,
+                "option": "C"
+            },
+            {
+                "x": 92,
+                "y": 399,
+                "r": 8,
+                "question_no": 4,
+                "option": "A"
+            },
+            {
+                "x": 263,
+                "y": 399,
+                "r": 8,
+                "question_no": 4,
+                "option": "B"
+            },
+            {
+                "x": 432,
+                "y": 400,
+                "r": 8,
+                "question_no": 4,
+                "option": "C"
+            },
+            {
+                "x": 603,
+                "y": 401,
+                "r": 9,
+                "question_no": 4,
+                "option": "D"
+            },
+            {
+                "x": 91,
+                "y": 505,
+                "r": 8,
+                "question_no": 5,
+                "option": "A"
+            },
+            {
+                "x": 262,
+                "y": 505,
+                "r": 8,
+                "question_no": 5,
+                "option": "B"
+            },
+            {
+                "x": 602,
+                "y": 505,
+                "r": 8,
+                "question_no": 5,
+                "option": "D"
+            },
+            {
+                "x": 432,
+                "y": 506,
+                "r": 8,
+                "question_no": 5,
+                "option": "C"
+            },
+            {
+                "x": 92,
+                "y": 617,
+                "r": 8,
+                "question_no": 6,
+                "option": "A"
+            },
+            {
+                "x": 261,
+                "y": 618,
+                "r": 8,
+                "question_no": 6,
+                "option": "B"
+            },
+            {
+                "x": 432,
+                "y": 618,
+                "r": 8,
+                "question_no": 6,
+                "option": "C"
+            },
+            {
+                "x": 603,
+                "y": 618,
+                "r": 9,
+                "question_no": 6,
+                "option": "D"
+            }
+        ]
+    }
+}
